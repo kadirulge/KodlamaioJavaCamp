@@ -10,6 +10,7 @@
       <module fileurl="file://$PROJECT_DIR$/week1/findNumber/findNumber.iml" filepath="$PROJECT_DIR$/week1/findNumber/findNumber.iml" />
       <module fileurl="file://$PROJECT_DIR$/week1/friendlyNumber/friendlyNumber.iml" filepath="$PROJECT_DIR$/week1/friendlyNumber/friendlyNumber.iml" />
       <module fileurl="file://$PROJECT_DIR$/week2/inheritance/inheritance.iml" filepath="$PROJECT_DIR$/week2/inheritance/inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week2/inheritanceDemo/inheritanceDemo.iml" filepath="$PROJECT_DIR$/week2/inheritanceDemo/inheritanceDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/week1/javaHelloWorld/javaHelloWorld.iml" filepath="$PROJECT_DIR$/week1/javaHelloWorld/javaHelloWorld.iml" />
       <module fileurl="file://$PROJECT_DIR$/week1/loopDemo/loopDemo.iml" filepath="$PROJECT_DIR$/week1/loopDemo/loopDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/week2/methodOverloading/methodOverloading.iml" filepath="$PROJECT_DIR$/week2/methodOverloading/methodOverloading.iml" />

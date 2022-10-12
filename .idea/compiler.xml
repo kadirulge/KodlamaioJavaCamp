@@ -5,6 +5,7 @@
       <module name="classes" options="--add-modules java.base" />
       <module name="classesWithAttributes" options="--add-modules java.base" />
       <module name="inheritance" options="--add-modules java.base" />
+      <module name="inheritanceDemo" options="--add-modules java.base" />
       <module name="methodOverloading" options="--add-modules java.base" />
       <module name="methods" options="--add-modules java.base" />
       <module name="methods2" options="--add-modules java.base" />
