@@ -26,11 +26,11 @@ public class Main {
     }
 
     public static int add2(int... numbers) {
-        int toplam = 0;
+        int sum = 0;
         for (int num:numbers){
-            toplam += num;
+            sum += num;
         }
-        return toplam;
+        return sum;
     }
     public static String assignCity(){
         return "Ankara";
