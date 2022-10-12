@@ -14,7 +14,7 @@ public class Main {
     }
 
     public static void delete (){
-        System.out.println("DeleteD");
+        System.out.println("Deleted");
     }
 
     public static void update(){
